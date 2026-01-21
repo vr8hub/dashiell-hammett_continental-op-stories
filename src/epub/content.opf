@@ -79,7 +79,7 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/106000-blood-money.xhtml" id="106000-blood-money.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/blood-money.xhtml" id="blood-money.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/arson-plus.xhtml" id="arson-plus.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bodies-piled-up.xhtml" id="bodies-piled-up.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -138,7 +138,7 @@
 		<itemref idref="the-gutting-of-couffignal.xhtml"/>
 		<itemref idref="creeping-siamese.xhtml"/>
 		<itemref idref="the-big-knock-over.xhtml"/>
-		<itemref idref="106000-blood-money.xhtml"/>
+		<itemref idref="blood-money.xhtml"/>
 		<itemref idref="the-main-death.xhtml"/>
 		<itemref idref="this-king-business.xhtml"/>
 		<itemref idref="fly-paper.xhtml"/>
