@@ -40,6 +40,7 @@
 		<meta property="term" refines="#subject-3">sh2008111424</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short stories about an unnamed agent of a detective agency in the early 1920’s.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
