@@ -56,6 +56,10 @@ footer{
 	font-variant: small-caps;
 }
 
+#slippery-fingers ul{
+	list-style-type: none;
+}
+
 #the-scorched-face-3 blockquote header{
 	font-variant: small-caps;
 	font-weight: bold;
