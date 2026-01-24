@@ -28,6 +28,10 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
 /* end of letters */
 
 /* poem/verse/song */
