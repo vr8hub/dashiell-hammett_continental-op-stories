@@ -52,6 +52,10 @@ footer{
 /* end of poem/verse/song */
 
 /* custom */
+#crooked-souls blockquote:nth-of-type(-n+2){
+	font-variant: small-caps;
+}
+
 #the-scorched-face-3 blockquote header{
 	font-variant: small-caps;
 	font-weight: bold;
