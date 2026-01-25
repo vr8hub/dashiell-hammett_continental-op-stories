@@ -52,8 +52,13 @@ footer{
 /* end of poem/verse/song */
 
 /* custom */
+q{
+	font-style: italic;
+}
+
 #crooked-souls blockquote:nth-of-type(-n+2),
-#the-girl-with-the-silver-eyes-5 blockquote{
+#the-girl-with-the-silver-eyes-5 blockquote,
+#the-golden-horseshoe-6 blockquote{
 	font-variant: small-caps;
 }
 
@@ -67,8 +72,17 @@ footer{
 	margin-bottom: 1em;
 }
 
-#the-girl-with-the-silver-eyes-5 blockquote p{
+#the-girl-with-the-silver-eyes-5 blockquote p,
+#the-golden-horseshoe-6 blockquote p{
 	text-align: center;
 	text-indent: 0;
+}
+
+#the-golden-horseshoe-5 blockquote header{
+	text-align: initial;
+}
+
+#the-golden-horseshoe-2 blockquote p > span{
+  padding-left: 3em;
 }
 /* end of custom */
