@@ -85,4 +85,13 @@ q{
 #the-golden-horseshoe-2 blockquote p > span{
   padding-left: 3em;
 }
+
+#death-and-company blockquote{
+	text-transform: uppercase;
+}
+
+#death-and-company blockquote header{
+	margin-bottom: 1em;
+	text-align: initial;
+}
 /* end of custom */
