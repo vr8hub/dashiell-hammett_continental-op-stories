@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="bodies-piled-up.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>The question mark is part of the play title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
