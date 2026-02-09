@@ -6,4 +6,10 @@
 			<reason>The question mark is part of the play title.</reason>
 		</ignore>
 	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-064</code>
+			<reason>It is a character in the link, not the book name itself.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
